@@ -11,4 +11,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Rode `yarn` para baixar as dependências
 - Rode o `yarn dev` para iniciar a aplicação.
 ---
-Aplicação construída através da videoaula de Node.js da Rocketseat que acompanhei. [Meus outros projetos](https://github.com/gabriel-torres-brum?tab=repositories)
+Aplicação construída por mim. [Meus outros projetos](https://github.com/gabriel-torres-brum?tab=repositories)
